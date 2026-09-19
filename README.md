@@ -12,7 +12,7 @@ This project have been completed as part of CAB222 Networks
 Assessment 2 for Bachelors's Degree in Information Technology at 
 Queensland University of Technology (QUT).
 
-**Group:** 59
+**Group:** 59\
 **My contribution:** Responsible for **Section 2 ---
 Identification of Abnormal TCP Traffic and Potential Attacks**
 and partially for **Section 3 --- Mitigation Strategies**.
